@@ -36,7 +36,7 @@ I’m a **Data Scientist** with a background in **Physics and Machine Learning**
 
 ## 💌 Connect With Me
 - 🌐 **Portfolio:** (Coming Soon)
-- 💼 **LinkedIn:** [[linkedin.com/in/chrysanthos-panagakos](https://www.linkedin.com/in/chrysanthos-panagakos/)/](#)
+- 💼 **LinkedIn:** [[linkedin.com/in/chrysanthos-panagakos](https://www.linkedin.com/in/chrysanthos-panagakos/)]
 ---
 
 Feel free to check out my projects, contribute, or reach out for collaborations! 🌟
