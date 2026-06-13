@@ -1,6 +1,6 @@
 # Chrysanthos Panagakos
 
-Physics educator moving into data science and machine learning. Eighteen years
+Physics educator moving into data science and machine learning. Thirteen years
 tutoring physics — most of it spent working out *why* a student's reasoning
 breaks — now aimed at ML, with a focus on retrieval, evaluation, and
 Greek-language NLP.
