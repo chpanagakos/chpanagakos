@@ -9,14 +9,14 @@ Greek-language NLP.
 
 **Misconception diagnosis for Greek physics exams** — *in progress, deploying June 2026.*
 
-A retrieval pipeline that takes a Panhellenic (Πανελλήνιες) physics problem and a
+A retrieval pipeline that takes a Panhellenic (Πανελλαδικές) physics problem and a
 student's incorrect attempt, grounds a diagnosis in the official worked solution,
 and surfaces candidate misconceptions from a hand-built taxonomy for a tutor to
 confirm. Frontier models already *solve* these problems — the point here is
 grounded, auditable diagnosis against a taxonomy built from real student work,
 not problem-solving.
 
-*(repo link goes here once it's live)*
+*[link](https://github.com/chpanagakos/greek-physics-rag)*
 
 ## Background
 
