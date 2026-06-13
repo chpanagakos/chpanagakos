@@ -21,7 +21,7 @@ not problem-solving.
 ## Background
 
 - **MSc in Data Science & Machine Learning** — Hellenic Open University, 2025 (9.63 / 10)
-- Physics graduate; 18 years of independent physics tutoring, in Greek
+- Physics graduate; 13 years of independent physics tutoring, in Greek
 - Working with: RAG / retrieval, embeddings, evaluation; Python; terminal-native (Linux, Neovim)
 
 ## Reach me
