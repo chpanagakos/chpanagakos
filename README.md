@@ -1,43 +1,30 @@
-<!--
-**chpanagakos/chpanagakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Chrysanthos Panagakos
 
-Here are some ideas to get you started:
+Physics educator moving into data science and machine learning. Eighteen years
+tutoring physics — most of it spent working out *why* a student's reasoning
+breaks — now aimed at ML, with a focus on retrieval, evaluation, and
+Greek-language NLP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi, I'm Chrysanthos Panagakos!
+## What I'm building
 
-🚀 Data Scientist | Machine Learning | Physics & AI  
+**Misconception diagnosis for Greek physics exams** — *in progress, deploying June 2026.*
 
-I’m a **Data Scientist** with a background in **Physics and Machine Learning**, passionate about applying AI to solve real-world problems. Currently, I'm working on projects in **customer churn prediction and cybersecurity AI**.
+A retrieval pipeline that takes a Panhellenic (Πανελλήνιες) physics problem and a
+student's incorrect attempt, grounds a diagnosis in the official worked solution,
+and surfaces candidate misconceptions from a hand-built taxonomy for a tutor to
+confirm. Frontier models already *solve* these problems — the point here is
+grounded, auditable diagnosis against a taxonomy built from real student work,
+not problem-solving.
 
-## 🔗 About Me
-- ✨ **Background:** Physics graduate with a strong focus on AI & Data Science
-- 🎓 **Education:** MSc in Data Science & Machine Learning (Completing in June 2025)
-- 🔍 **Interests:** Machine Learning, AI in cybersecurity, Reinforcement Learning, Data-Driven Decision Making
-- 📚 **Learning:** Advanced Deep Learning techniques & AI applications in business analytics
+*(repo link goes here once it's live)*
 
-## 🔍 What I’m Working On
-- 🛠️ Building an **ML model for customer churn prediction**
-- 🔎 Exploring AI applications in **cybersecurity and reinforcement learning**
-- 📊 Documenting my journey in **data science through projects and insights**
+## Background
 
-## 💼 Projects
-- 📝 **[Churn Prediction Model](https://github.com/chpanagakos/churn-prediction)** - Machine Learning model to predict customer churn.
-- 🛡️ **Cybersecurity AI (Coming Soon)** - Exploring AI-driven network security solutions.
-- 📈 **Reinforcement Learning for Dynamic Pricing (Coming Soon)** - Using AI for optimized pricing strategies.
+- **MSc in Data Science & Machine Learning** — Hellenic Open University, 2025 (9.63 / 10)
+- Physics graduate; 18 years of independent physics tutoring, in Greek
+- Working with: RAG / retrieval, embeddings, evaluation; Python; terminal-native (Linux, Neovim)
 
-## 💌 Connect With Me
-- 🌐 **Portfolio:** (Coming Soon)
-- 💼 **LinkedIn:** [[linkedin.com/in/chrysanthos-panagakos](https://www.linkedin.com/in/chrysanthos-panagakos/)]
----
+## Reach me
 
-Feel free to check out my projects, contribute, or reach out for collaborations! 🌟
-
+- LinkedIn: [chrysanthos-panagakos](https://www.linkedin.com/in/chrysanthos-panagakos/)
+- Open to remote data science / ML roles, and Athens-based.
