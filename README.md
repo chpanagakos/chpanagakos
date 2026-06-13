@@ -26,5 +26,5 @@ not problem-solving.
 
 ## Reach me
 
-- LinkedIn: [chrysanthos-panagakos](https://www.linkedin.com/in/chpanagakos/)
+- LinkedIn: [chpanagakos](https://www.linkedin.com/in/chpanagakos/)
 - Open to remote data science / ML roles, and Athens-based.
