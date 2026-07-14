@@ -7,7 +7,7 @@ Greek-language NLP.
 
 ## What I'm building
 
-**Misconception diagnosis for Greek physics exams** — *in progress, deploying June 2026.*
+**Misconception diagnosis for Greek physics exams** — *in progress*
 
 A retrieval pipeline that takes a Panhellenic (Πανελλαδικές) physics problem and a
 student's incorrect attempt, grounds a diagnosis in the official worked solution,
